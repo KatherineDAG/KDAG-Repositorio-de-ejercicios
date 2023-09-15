@@ -1,0 +1,29 @@
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\bin\Debug\net7.0\Ejercicio 2.exe
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\bin\Debug\net7.0\Ejercicio 2.deps.json
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\bin\Debug\net7.0\Ejercicio 2.runtimeconfig.json
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\bin\Debug\net7.0\Ejercicio 2.dll
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\bin\Debug\net7.0\Ejercicio 2.pdb
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\bin\Debug\net7.0\FSharp.Core.dll
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\bin\Debug\net7.0\cs\FSharp.Core.resources.dll
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\bin\Debug\net7.0\de\FSharp.Core.resources.dll
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\bin\Debug\net7.0\es\FSharp.Core.resources.dll
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\bin\Debug\net7.0\fr\FSharp.Core.resources.dll
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\bin\Debug\net7.0\it\FSharp.Core.resources.dll
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\bin\Debug\net7.0\ja\FSharp.Core.resources.dll
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\bin\Debug\net7.0\ko\FSharp.Core.resources.dll
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\bin\Debug\net7.0\pl\FSharp.Core.resources.dll
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\bin\Debug\net7.0\pt-BR\FSharp.Core.resources.dll
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\bin\Debug\net7.0\ru\FSharp.Core.resources.dll
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\bin\Debug\net7.0\tr\FSharp.Core.resources.dll
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\bin\Debug\net7.0\zh-Hans\FSharp.Core.resources.dll
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\bin\Debug\net7.0\zh-Hant\FSharp.Core.resources.dll
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\obj\Debug\net7.0\Ejercicio 2.fsproj.AssemblyReference.cache
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\obj\Debug\net7.0\Ejercicio 2.AssemblyInfoInputs.cache
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\obj\Debug\net7.0\Ejercicio 2.AssemblyInfo.fs
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\obj\Debug\net7.0\Ejercicio 2.fsproj.CoreCompileInputs.cache
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\obj\Debug\net7.0\Ejercicio 2.fsproj.CopyComplete
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\obj\Debug\net7.0\Ejercicio 2.dll
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\obj\Debug\net7.0\refint\Ejercicio 2.dll
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\obj\Debug\net7.0\Ejercicio 2.pdb
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\obj\Debug\net7.0\Ejercicio 2.genruntimeconfig.cache
+D:\Escritorio\Katherine\TEC\Año 2023\II Semestre\Lenguajes\Ejercicios para el repositorio\Paradigma Funcional\Ejercicio2\Ejercicio 2\obj\Debug\net7.0\ref\Ejercicio 2.dll
